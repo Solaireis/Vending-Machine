@@ -1,2 +1,2 @@
 # Vending-Machine
-Python code for a simple vending machine project
+Python code to demonstrating a vending machine project
